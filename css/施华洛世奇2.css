@@ -1,0 +1,111 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+li{
+	list-style: none;
+}
+.daohang img{
+	height: 40px;
+	width: 80px;
+	padding-top: 5px;
+}
+.link__text {
+    display: inline-block;
+    vertical-align: middle;
+}
+.zuansi {
+	width: 80px;
+	margin: 0 auto;
+	display: block;
+	/*将img转化为块级元素*/
+}
+.hezuo h3{
+	text-align: center;
+	margin-bottom: 18px;
+}
+.hezuo ul{
+    text-align: center;
+    padding-left: 30px;
+}
+.shengdan{
+	
+}
+.zhongjieze{
+	width: 1200px;
+	height: 600px;
+	margin: 0 auto;
+	display: block;
+}
+.weiyi h3{
+	text-align: center;
+	margin-bottom: 18px;
+}
+.weiyi ul{
+    text-align: center;
+    padding-left: 30px;
+}
+.lunbo{
+	width: 100%;
+	margin: 0 auto;
+}
+.lunbo img{
+	width: 200px;
+	overflow: hidden;
+	float: left;
+	margin-right;30px;
+	margin-left:280px;
+}
+.carousel-inner .item p{
+	margin-left: 270px;
+	text-align: center;
+}
+.carousel-inner .left .carousel-control{
+	background:white;
+}
+.shipin{
+	width: 1200px;
+	margin-left: 200px;
+}
+.zhongguo{
+	width: 1000px;
+	margin: 0 auto;
+}
+.zhongguo img{
+	width: 100%;
+}
+
+
+.anniu{
+	width: 200px;
+	height: 45px;
+	line-height: 45px;
+	display: block;
+	background: #222222;
+	color: white;
+	text-align: center;
+	margin: 20px auto;	
+}
+.anniu:hover{
+	background: #888888;
+	color: #000;
+	text-decoration: none;
+}
+.over{
+	width: 900px;
+	margin: 0 auto;
+}
+.over ul{
+	width: 300px;
+	float: left;
+}
+.over ul li a{
+	color: #888;
+}
+.over ul li{
+	 	width: 300px;
+}
+.over ul li a{
+	display: block;
+	width: 300px;
+}
